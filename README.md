@@ -1,7 +1,9 @@
 # Crays Circle
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue.svg)](https://github.com/crays-ecosystem/crays-circle)
+
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)](https://github.com/crays-ecosystem/crays-circle)
 
 > **Your phone is no longer a device. It's a node.**
@@ -32,6 +34,8 @@ Crays Circle is a revolutionary offline-first social networking app that transfo
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -39,6 +43,8 @@ Crays Circle is a revolutionary offline-first social networking app that transfo
 - **iOS**: 14.0+ / **Android**: API level 24+
 - Wi-Fi Aware / Bluetooth LE support
 - 2GB+ available storage
+
+---
 
 ### Installation
 
@@ -48,15 +54,6 @@ git clone https://github.com/crays-ecosystem/crays-circle.git
 
 # Navigate to project directory
 cd crays-circle
-
-# Install dependencies
-npm install
-
-# iOS setup
-cd ios && pod install && cd ..
-
-# Android setup (if needed)
-cd android && ./gradlew clean && cd ..
 ```
 ---
 
@@ -116,6 +113,8 @@ Crays Super Node hardware requirements:
 - Bluetooth 5.0+
 - Ethereum/MANTRA Chain sync capability
 
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! 
@@ -134,11 +133,13 @@ We welcome contributions!
 - Ensure offline-first functionality
 - Document mesh protocol changes
 
+---
+
 ## 📊 Roadmap
 
 ### Phase 1 (2025) - Foundation
-- [x] Core mesh networking protocol
-- [x] Basic personality matching
+- [ ] Core mesh networking protocol
+- [ ] Basic personality matching
 - [ ] iOS/Android app release
 - [ ] First venue partnerships
 
@@ -154,20 +155,22 @@ We welcome contributions!
 - [ ] Full Web3 integration
 - [ ] Tokenized real estate
 
+---
+
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## 🔗 Links
 
 - **Website**: [crays.world](https://crays.world)
-- **Documentation**: [docs.crays.world](https://docs.crays.world)
-- **Community**: [Discord](https://discord.gg/crays)
-- **Twitter**: [@CraysEcosystem](https://twitter.com/CraysEcosystem)
+  
+---
 
 ## 🙏 Acknowledgments
 
-- [MANTRA Chain](https://mantrachain.io) - Blockchain infrastructure
 - [Wi-Fi Alliance](https://www.wi-fi.org) - Wi-Fi Aware specification
 - Psychology research community for matching algorithms
 
