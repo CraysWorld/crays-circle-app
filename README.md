@@ -1,10 +1,11 @@
 # Crays Circle
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue.svg)](https://github.com/crays-ecosystem/crays-circle)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue.svg)](https://github.com/crayscircle/crays-circle-app) 
 
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)](https://github.com/crays-ecosystem/crays-circle)
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)](https://github.com/crayscircle/crays-circle-app)
+
 
 > **Your phone is no longer a device. It's a node.**
 
@@ -117,7 +118,7 @@ Crays Super Node hardware requirements:
 
 ## 🤝 Contributing
 
-We welcome contributions! 
+We welcome contributions! Please read [CONTRIBUTING](CONTRIBUTING) for details on contribution.
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -126,12 +127,6 @@ We welcome contributions!
 5. Open a Pull Request
 
 ### Development Guidelines
-
-- Follow TypeScript best practices
-- Write comprehensive tests
-- Maintain privacy-first architecture
-- Ensure offline-first functionality
-- Document mesh protocol changes
 
 ---
 
@@ -165,7 +160,7 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 ## 🔗 Links
 
-- **Website**: [crays.world](https://crays.world)
+- **Website**: [www.crays.org](https://crays.org)
   
 ---
 
